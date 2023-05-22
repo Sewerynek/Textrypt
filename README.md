@@ -1,2 +1,2 @@
 # Textrypt
-Text encrypting app. Project by Matas Dragūnas &amp; Severyn Stankevič
+Text encryption app. Project by Matas Dragūnas &amp; Severyn Stankevič
